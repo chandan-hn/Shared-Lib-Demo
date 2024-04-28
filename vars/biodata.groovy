@@ -2,7 +2,7 @@ def call() {
   script {
     name="chandan"
     age="28"
-    place"hassan"
+    place="hassan"
     job="devops"
 
     echo "My name is: $name"
